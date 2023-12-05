@@ -15,3 +15,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [x] This item is complete
 - [x] This item is not complete
+
